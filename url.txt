@@ -1,0 +1,4 @@
+项目：语音识别管理平台项目（**）
+URL：http://192.168.1.110:9000/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/%E5%8E%9F%E5%9E%8B%E5%9B%BE/%E7%BB%9F%E4%B8%
+80%E6%8E%88%E6%9D%83%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0/
+禅道管理地址：http://192.168.1.211:18080/zentao/project-task-14-unclosed.html
